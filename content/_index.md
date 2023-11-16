@@ -102,7 +102,7 @@ sections:
           company: Microsoft, Azure for Operators
           company_url: ''
           company_logo: microsoft
-          location: Redmond, WA
+          location: Redmond, WA (Remote)
           date_start: '2021-05-01'
           date_end: '2021-08-31'
           # description: Taught electronic engineering and researched semiconductor physics.
@@ -255,8 +255,8 @@ sections:
           organization_url: https://acmsocc.org/2023/
           title: Student Travel Scholarship
           url: ''
-        - date_end: '2019-09-01'
-          date_start: '2019-12-31'
+        - date_end: '2019-12-31'
+          date_start: '2019-09-01'
           description: ''
           icon: uw-madison
           organization: UW-Madison

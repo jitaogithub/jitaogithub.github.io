@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: University of Texas at Austin
+      institution: The University of Texas at Austin
       year: In Progress
     - course: M.S. in Computer Science
       institution: University of Wisconsin-Madison
@@ -101,9 +101,9 @@ social:
     label: Follow me on Twitter
     display:
       header: false
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3cpZLi8AAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
