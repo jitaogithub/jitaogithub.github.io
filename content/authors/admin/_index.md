@@ -17,12 +17,11 @@ last_name: Ji
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Computer Science
+role: Senior Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UT Austin
-    url: https://www.utexas.edu/
+  - name: Microsoft
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,14 +31,14 @@ interests:
   - Datacenter Networks
   - Transports
   - In-Network Computing
-  - Networks for ML
+  - Networks for Scaling Out
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Computer Science
       institution: The University of Texas at Austin
-      year: In Progress
+      year: 2024
     - course: M.S. in Computer Science
       institution: University of Wisconsin-Madison
       year: 2021
@@ -120,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a fifth-year PhD student in [Computer Science](https://www.cs.utexas.edu/) at [UT Austin](https://www.utexas.edu/), advised by [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). I am broadly interested in datacenter networks, with a focus on the opportunities and problems in applying in-network computing to real-world systems. My recent research focuses on the transport-layer problems, such as providing reliable delivery and congestion control, for in-network computing. I have also interned at Google and Microsoft, working on projects that involve hardware offloading of transport (e.g., RDMA), congestion control and 5G vRAN. 
+I am currently a senior software engineer at Microsoft with a focus on [MANA](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-overview). I received my PhD in Computer Science from [UT Austin](https://www.cs.utexas.edu/) in August 2024. I was advised by [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). I am broadly interested in intra- and inter-datacenter networks. My PhD research discovered opportunities and tackled problems in applying in-network computing to real-world systems. I have also interned at Google and Microsoft, working on projects that covered hardware transport offloading, congestion control and 5G vRAN. 
 
-**I am looking for a full-time industry job that starts in fall 2024.**
+**I am actively looking for collaboration with the academia. Email me.**
 {style="text-align: justify;"}

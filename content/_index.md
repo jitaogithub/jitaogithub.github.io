@@ -78,6 +78,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Software Engineer
+          company: Microsoft, Azure
+          company_url: ''
+          company_logo: microsoft
+          location: Redmond, WA
+          date_start: '2024-09-16'
+          # date_end: '2023-07-31'
         - title: Student Researcher
           company: Google, Cloud
           company_url: ''
@@ -273,14 +280,14 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # # Contact (add or remove contact options as necessary)
-      email: taoji @ cs dot utexas dot edu
+      email: taoji @ microsoft dot com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 2317 Speedway, Stop D9500
-        city: Austin
-        region: TX
-        postcode: '78722'
+        street: One Microsoft Way
+        city: Redmond
+        region: WA
+        postcode: '98052'
         country: United States
         country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
