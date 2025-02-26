@@ -31,7 +31,7 @@ interests:
   - Datacenter Networks
   - Transports
   - In-Network Computing
-  - Networks for Scaling Out
+  - Datacenter Interconnect
 
 # Education to show in About widget
 education:
