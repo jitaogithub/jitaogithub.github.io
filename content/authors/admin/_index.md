@@ -121,5 +121,5 @@ highlight_name: true
 ---
 I am currently a senior software engineer at Microsoft with a focus on [MANA](https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-overview). I received my PhD in Computer Science from [UT Austin](https://www.cs.utexas.edu/) in August 2024. I was advised by [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/). I am broadly interested in intra- and inter-datacenter networks. My PhD research discovered opportunities and tackled problems in applying in-network computing to real-world systems. I have also interned at Google and Microsoft, working on projects that covered hardware transport offloading, congestion control and 5G vRAN. 
 
-**I am actively looking for collaboration with the academia. Email me.**
+**I am looking for opportunities to serve as a PC member or reviewer. Please contact me.**
 {style="text-align: justify;"}
